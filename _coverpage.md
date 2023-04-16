@@ -1,6 +1,6 @@
 <img src="static/manual.assets/image-20220313120222613.png" width = "250" height = "250" alt="logo" align=center />  
 
-# 海豹核心 <small>1.2.5</small>
+# 海豹核心 <small>1.2.6</small>
 
 > 一个简单易用的跑团骰子系统。
 
